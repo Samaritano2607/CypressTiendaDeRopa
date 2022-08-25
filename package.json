@@ -4,11 +4,15 @@
   "description": "Prueba de Automatizacion tienda de ropa",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cypress run"
   },
   "author": "Elvi Bazalar",
   "license": "ISC",
   "dependencies": {
     "cypress": "^10.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Samaritano2607/CypressTiendaDeRopa"
   }
 }
