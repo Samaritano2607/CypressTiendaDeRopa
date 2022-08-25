@@ -1,0 +1,14 @@
+{
+  "name": "cypresstutorialfinal",
+  "version": "1.0.0",
+  "description": "Prueba de Automatizacion tienda de ropa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elvi Bazalar",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.6.0"
+  }
+}
